@@ -6,19 +6,19 @@ const ProjectCardData = [
     {
         imgsrc: proj1,
         title: 'Informational Website',
-        text: 'descriptive text',
+        text: 'This website is a single scroll page, with some current and historical data from my home town Guttenberg Iowa.',
         view: 'https://schmelzerdaniel-fs.github.io/'
     },
     {
         imgsrc: proj2,
         title: 'E-commerce Website',
-        text: 'descriptive text',
+        text: 'A simple E-Commerce site, based off of a Skateboarding company located in Des Moines Iowa.',
         view: ''
     },
     {
         imgsrc: proj3,
         title: 'Abacus 5e',
-        text: 'descriptive text',
+        text: 'This is a pet project, I will be continuing to develop for players and Dungeon Masters for the TTRPG Dungeons & Dragons.',
         view: ''
     },
 ]
