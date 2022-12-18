@@ -7,7 +7,7 @@ const ProjectCardData = [
         imgsrc: proj1,
         title: 'Informational Website',
         text: 'This website is a single scroll page, with some current and historical data from my home town Guttenberg Iowa.',
-        view: 'https://schmelzerdaniel-fs.github.io/'
+        view: ''
     },
     {
         imgsrc: proj2,

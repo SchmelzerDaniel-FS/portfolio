@@ -25,9 +25,7 @@ const AboutContent = () => {
                     <img src={React2} className='img' alt='default img' />
                 </div>
             </div>
-
         </div>
-
     </div>
   )
 }
