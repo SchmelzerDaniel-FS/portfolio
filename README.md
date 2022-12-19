@@ -14,3 +14,8 @@ git clone https://github.com/SchmelzerDaniel-FS/portfolio.git
 npm i
 npm run start
 ```
+
+Alternatively you can visit: 
+```
+https://schmelzerdaniel-fs.github.io/portfolio/
+```
